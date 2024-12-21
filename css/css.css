@@ -57,19 +57,19 @@ body{
 }
 
 .call-icon{
-    background-image: url(/img/svg/call.svg);
+    background-image: url(../img/svg/call.svg);
 }
 .chat-icon{
     background-image: url(../img/svg/chat.svg);
 }
 .profile-icon{
-    background-image: url(/img/svg/profile.svg);
+    background-image: url(../img/svg/profile.svg);
 }
 .search-icon{
-    background-image: url(/img/svg/search.svg);
+    background-image: url(../img/svg/search.svg);
 }
 .highlight{
-    background-image: url(/img/svg/highlight\ \(1\).svg);
+    background-image: url(../img/svg/highlight\ \(1\).svg);
 }
 
 .contacts{
@@ -156,7 +156,7 @@ body{
 }
 
 .blockmenu-list-item::before{
-    background: no-repeat left url(/img/svg/highlight\ \(1\).svg);
+    background: no-repeat left url(../img/svg/highlight\ \(1\).svg);
 
 }
 
@@ -172,7 +172,7 @@ body{
     
 }
 .blockmenu-list-item:hover{
-    background: no-repeat left url(/img/svg/highlight\ \(1\).svg);
+    background: no-repeat left url(../img/svg/highlight\ \(1\).svg);
 }
 
 
